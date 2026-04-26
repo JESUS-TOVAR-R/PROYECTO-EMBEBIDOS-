@@ -1,0 +1,2 @@
+../Core/LIBS/adc_x.c:14:10:ADC_Read	16	static
+../Core/LIBS/adc_x.c:22:6:ADC_Read_DMA	24	static

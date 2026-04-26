@@ -1,0 +1,10 @@
+# Writing all output to: C:\Users\ASUS\OneDrive - Universidad Tecnol??gica de Bol??var\SEMESTRE 2026-1\EMBEBIDOS\CORTE2\PROYECTO\SMART-GRID.log
+set pad_wire_necking on
+bus diagonal
+fanout 5
+route 50
+clean 2
+route 50 16
+clean 2
+filter 5
+recorner diagonal

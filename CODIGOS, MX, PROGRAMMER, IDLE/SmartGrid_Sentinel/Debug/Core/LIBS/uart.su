@@ -1,0 +1,4 @@
+../Core/LIBS/uart.c:15:6:uartx_write	16	static
+../Core/LIBS/uart.c:21:6:uartx_write_text	16	static
+../Core/LIBS/uart.c:29:9:uartx_read	24	static
+../Core/LIBS/uart.c:38:6:uartx_read_text	32	static
